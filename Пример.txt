@@ -1,0 +1,18 @@
+a<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Название страницы</title>
+  </head>
+  <body>
+    <h1>Разработчик</h1>
+    <p>Фотография:</p>
+   <img src="S600xU_2x.jpg" alt= "photo1" width="350px" height="230px" />
+    <p>Уровень Професстональных Навыков:
+<br>C++ - 1%, HTML - 3%, java - 0%, Python - 90%</p>
+    <li class="Город active">
+    <a href="file://mkit-srv/redirectedfolders$/dea.odobesku/Desktop/htm/3.html">История Города</a>
+    </li>
+  </body>
+</html>

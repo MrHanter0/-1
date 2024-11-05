@@ -1,0 +1,121 @@
+body {
+  background-color: #cf9b8f;
+  color: #FFFFFF; /* white text */
+}
+.italic {
+  font-style: italic;
+button1 {
+            padding: 15px 30px;
+            font-size: 16px;
+            background-color: #474389;
+            color: #ffffff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+            position: absolute; /* Установлено абсолютное позиционирование */
+            bottom: 890px; /* Расстояние от нижней границы */
+            right: 50px; /* Расстояние от правой границы */
+        }
+  button:hover {
+            background-color: #afdafc;
+            color: white;
+}
+
+button2 {
+            padding: 15px 30px;
+            font-size: 16px;
+            background-color: #474389;
+            color: #ffffff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+            position: absolute; /* Установлено абсолютное позиционирование */
+            bottom: 890px; /* Расстояние от нижней границы */
+            right: 250px; /* Расстояние от правой границы */
+        }
+  button:hover {
+            background-color: #474389;
+            color: white;
+}
+button3 {
+            padding: 15px 30px;
+            font-size: 16px;
+            background-color: #474389;
+            color: #ffffff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+            position: absolute; /* Установлено абсолютное позиционирование */
+            bottom: 890px; /* Расстояние от нижней границы */
+            right: 500px; /* Расстояние от правой границы */
+        }
+  button:hover {
+            background-color: #876c99;
+            color: white;
+}
+
+button4 {
+            padding: 15px 30px;
+            font-size: 16px;
+            background-color: #474389;
+            color: #ffffff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+            position: absolute; /* Установлено абсолютное позиционирование */
+            bottom: 890px; /* Расстояние от нижней границы */
+            right: 750px; /* Расстояние от правой границы */
+        }
+  button:hover {
+            background-color: #876c99;
+            color: white;
+}
+
+button5 {
+            padding: 15px 30px;
+            font-size: 16px;
+            background-color: #474389;
+            color: #ffffff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+            position: absolute; /* Установлено абсолютное позиционирование */
+            bottom: 890px; /* Расстояние от нижней границы */
+            right: 1000px; /* Расстояние от правой границы */
+        }
+  button:hover {
+            background-color: #876c99;
+            color: white;
+}
+ body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            background-color: #f0f0f0;
+            font-family: Arial, sans-serif;
+        }
+        video {
+            width: 80%;
+            max-width: 600px;
+            margin-bottom: 20px;
+            display: none;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            border: none;
+            color: white;
+            background-color: #007bff;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        button:hover {
+            background-color: #0056b3;

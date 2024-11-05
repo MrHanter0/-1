@@ -1,0 +1,23 @@
+body {
+  background-color: #ECAA88; /* red background */
+  color: #FFFFFF; /* white text */
+}
+.italic {
+  font-style: italic;
+}
+button1 {
+            padding: 15px 30px;
+            font-size: 16px;
+            background-color: #474389;
+            color: #ffffff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+            position: absolute; /* Установлено абсолютное позиционирование */
+            bottom: 50px; /* Расстояние от нижней границы */
+            right: 30px; /* Расстояние от правой границы */
+        }
+  button:hover {
+            background-color: #876c99;
+            color: white;
